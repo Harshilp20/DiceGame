@@ -1,6 +1,6 @@
 //  Name: Harshil Patel
-//  Course: Data Structures CS2028C
-//  Assignment: Lab 1
+//  Dice Game Logic where user will be able to choose between two different dice roll games
+//  Also playable by a single player
 
 #include <iostream>
 #include <cstdlib>
